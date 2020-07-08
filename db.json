@@ -8,21 +8,9 @@
   },
   {
     "userId": 1,
-    "id": 2,
-    "title": "quis ut nam facilis et officia qui",
-    "completed": false
-  },
-  {
-    "userId": 1,
     "id": 3,
     "title": "fugiat veniam minus",
     "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "et porro tempora",
-    "completed": true
   },
   {
     "userId": 1,
@@ -134,12 +122,6 @@
   },
   {
     "userId": 5,
-    "id": 81,
-    "title": "suscipit qui totam",
-    "completed": true
-  },
-  {
-    "userId": 5,
     "id": 82,
     "title": "voluptates eum voluptas et dicta",
     "completed": false
@@ -196,12 +178,6 @@
     "userId": 6,
     "id": 113,
     "title": "quia atque aliquam sunt impedit voluptatum rerum assumenda nisi",
-    "completed": false
-  },
-  {
-    "userId": 6,
-    "id": 114,
-    "title": "cupiditate quos possimus corporis quisquam exercitationem beatae",
     "completed": false
   },
   {
